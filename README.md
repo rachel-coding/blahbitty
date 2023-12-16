@@ -1,1 +1,1 @@
-# blahbitty
+This is a sample website for the <strong>Learn Enough HTML ... </strong> course.
