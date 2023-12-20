@@ -1,0 +1,1 @@
+This is a sample website for the course [*Learn Enough HTML to be Dangerous*](https://news.learnenough.com/why-learn-enough-html).  You're welcome to check out [my blog](https://webdevjourney.wixsite.com/blog) to read about my experiences related to this course as well as others in the *Learn Enough* series.
