@@ -2,6 +2,40 @@
     text-align: right;
     color: blue
   }
-  .nav-spacing {
+.nav-spacing {
     margin: 0 0 0 10px;
   }
+.image-link {
+    text-decoration: none;
+  }
+.table {
+    padding: 10px
+  }
+.moby-title {
+  text-align: center;
+  margin: 0 0 80px;
+  }
+.photo {
+  display: block;
+  margin: 0 auto;
+  }
+.text-box {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: rgb(73, 171, 232);
+  }
+.book-cover {
+  float: left;
+  margin: 0 40px 0 0;
+  }
+.opening-quote {
+  font-style: italic;
+  font-size: 20px;
+}
+.first-three-words {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
